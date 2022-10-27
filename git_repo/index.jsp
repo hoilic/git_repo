@@ -1,5 +1,6 @@
 
 <!-- 오늘 점심은 국밥 -->
+<!-- 왜 수정 안되나요 -->
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
